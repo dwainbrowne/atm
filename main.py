@@ -13,6 +13,8 @@ def main_program ():
     remainingbalancechecking = 0
     print ("Welcome to the Bank's Automated Teller Marketer")
     #languageconstants.constants()
+    
+    #Dwain Testing...
 
     letter = input("Please choose your language option- e for English and s for Spanish: ")
     #while letter != "e" or letter != "s":
