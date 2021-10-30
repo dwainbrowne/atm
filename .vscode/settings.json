@@ -1,0 +1,8 @@
+{
+    "python.pythonpath": "C:\\Users\\ishmael1999\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "python.analysis.extraPaths": [
+        "./comms",
+        "./bank",
+        "./atm"
+    ]
+}
