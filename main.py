@@ -1,11 +1,11 @@
 
-import language
-import pinnumber
-import accounttype
-import receipt
-import transaction
-import savings
-import checking
+from comms import language
+from bank import pinnumber
+from bank import accounttype
+from atm import receipt
+from atm import transaction
+from bank import savings
+from bank import checking
 #import languageconstants
 def main_program ():
     #import accountactivity
